@@ -124,4 +124,4 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join('static'),
 )
->>>>>>> cd38e74b7f98f4a2e66b2fb4d4225be52dcdc4fc
+
